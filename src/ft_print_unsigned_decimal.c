@@ -6,12 +6,12 @@
 /*   By: sbouheni <sbouheni@student.42mulhouse.fr>  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/18 03:00:08 by sbouheni          #+#    #+#             */
-/*   Updated: 2023/01/05 20:10:58 by sbouheni         ###   ########.fr       */
+/*   Updated: 2023/02/15 21:16:40 by sbouheni         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
-#include "libft.h"
+#include "../include/ft_printf.h"
+#include "../include/libft.h"
 
 int	ft_print_unsigned_decimal(unsigned int ap)
 {

@@ -6,12 +6,12 @@
 /*   By: sbouheni <sbouheni@student.42mulhouse.fr>  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/18 02:49:57 by sbouheni          #+#    #+#             */
-/*   Updated: 2023/01/05 19:25:02 by sbouheni         ###   ########.fr       */
+/*   Updated: 2023/02/15 21:14:59 by sbouheni         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
-#include "libft.h"
+#include "../include/ft_printf.h"
+#include "../include/libft.h"
 
 int	ft_print_integer(int ap)
 {

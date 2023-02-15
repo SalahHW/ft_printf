@@ -6,12 +6,11 @@
 /*   By: sbouheni <sbouheni@student.42mulhouse.fr>  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/18 02:58:35 by sbouheni          #+#    #+#             */
-/*   Updated: 2023/01/04 16:48:09 by sbouheni         ###   ########.fr       */
+/*   Updated: 2023/02/15 21:16:10 by sbouheni         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
-#include "libft.h"
+#include "../include/ft_printf.h"
 
 int	ft_print_string(char *ap)
 {
